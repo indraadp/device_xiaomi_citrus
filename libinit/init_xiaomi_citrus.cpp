@@ -10,8 +10,8 @@
 #include "vendor_init.h"
 
 static const variant_info_t citrus_info = {
-    .hwc_value = "GLOBAL",
-    .sku_value = "",
+    .hwc_value = "",
+    .sku_value = "citrus",
 
     .brand = "POCO",
     .device = "citrus",
