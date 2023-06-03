@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_citrus.mk
+    $(LOCAL_DIR)/ancient_citrus.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_citrus-user \
-    aosp_citrus-userdebug \
-    aosp_citrus-eng
+    ancient_citrus-user \
+    ancient_citrus-userdebug \
+    ancient_citrus-eng
