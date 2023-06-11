@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_citrus.mk
+    $(LOCAL_DIR)/superior_citrus.mk
 
 COMMON_LUNCH_CHOICES := \
-    ancient_citrus-user \
-    ancient_citrus-userdebug \
-    ancient_citrus-eng
+    superior_citrus-user \
+    superior_citrus-userdebug \
+    superior_citrus-eng
